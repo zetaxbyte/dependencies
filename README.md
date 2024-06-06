@@ -1,6 +1,7 @@
 =======
  #dependencies for ubuntu# =======
 
+RECOMENDED TO USE DISTRO UBUNTU 22 VERSION
 WITH SUDO
 
 ```bash
